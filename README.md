@@ -1,5 +1,5 @@
 # PANDAS
-Data Analysis with Pandas and NumPy
+Effortless Data Handling with Pandas & NumPy
 
 ## Overview
 
